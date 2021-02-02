@@ -71,7 +71,7 @@ function displayData(info){
         cardBody.append(name);
         cardBody.append(originalprice);
         cardBody.append(price);
-        cardBody.append(cartadd);<br>
+        cardBody.append(cartadd);
         cardBody.append(cartdd);
 
 
@@ -79,4 +79,4 @@ function displayData(info){
         column.append(card);
         
     })
-}``
+}
